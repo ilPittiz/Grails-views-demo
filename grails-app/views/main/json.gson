@@ -1,0 +1,5 @@
+model {
+	Map map
+}
+
+json([ controller: 1, *: map ])
